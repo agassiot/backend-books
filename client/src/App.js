@@ -11,13 +11,13 @@ var httpLink = createHttpLink({ uri: '/graphql' });
 
 var authLink = setContext((_, { headers }) => {
 
-  {let token = localStorage.getItem('id_token');
+  let token = localStorage.getItem('id_token');
   return {
     headers: {
       ...headers,
       authorization: token ? `Bearer ${token}` : ''
     }};
-  }
+  
 
 });
 

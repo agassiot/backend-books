@@ -6,7 +6,7 @@ var { signToken } = require('../utils/auth');
 var resolvers = {
 
     Query: {
-        me: async (parent, args, context) => context.user ? Profile.findOne({ _id: context.user._id }) : new AuthenticationError('login!')
+        me: async (parent, args, context) => context.user ? User.findOne({ _id: context.user._id }) : new AuthenticationError('login!')
 
    },
 

@@ -4,8 +4,8 @@
   "description": "",
   "main": "server/server.js",
   "scripts": {
-    "start": "NODE_ENV=production node server/server.js",
-    "develop": "NODE_ENV=development concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "start": "NODE_ENV=production node server/server.js --ignore client",
+    "develop": "NODE_ENV=development concurrently \"cd server && npm run watch\" \"cd client && npm start\" ",
     "install": "cd server && npm i && cd ../client && npm i",
     "build": "cd client && npm run build"
   },
@@ -17,8 +17,6 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  },
-  "dependencies": {
-    "@apollo/client": "^3.7.1"
   }
+  
 }
