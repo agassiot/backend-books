@@ -54,7 +54,7 @@ const SearchBooks = () => {
       setSearchedBooks(bookData);
       setSearchInput('');
     } catch (err) {
-      console.error(err);
+      //console.error(err);
     }
   };
 
@@ -82,7 +82,7 @@ const SearchBooks = () => {
 
       setSavedBookIds([...savedBookIds, bookToSave.bookId]);
     } catch (err) {
-      console.error(err);
+      //console.error(err);
     }
   };
 
