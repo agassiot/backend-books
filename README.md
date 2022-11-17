@@ -45,7 +45,7 @@ Fetches search results using Apollo Server and GraphQL to query a MongoDB
 
 ### Struggles
 
-Out of Bang and Red Bull; coding through sleep deprivation and caffeine withdrawal
+I don't know why, I just can't get these apps to work properly with Atlas. 
 
 ### Links
 
