@@ -51,4 +51,8 @@ Out of Bang and Red Bull; coding through sleep deprivation and caffeine withdraw
 
 Github Page https://github.com/agassiot \
 Github Repository https://github.com/agassiot/backend-books \
-Live Link tbd
+Live Link https://deltaix-backend-books.herokuapp.com/ 
+
+
+
+<img width="1509" alt="blog-demo" src="https://user-images.githubusercontent.com/61921580/202440579-81950cf9-db6d-470e-a233-9b6dbeadeb4e.png">
