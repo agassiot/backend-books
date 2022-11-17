@@ -55,4 +55,5 @@ Live Link https://deltaix-backend-books.herokuapp.com/
 
 
 
-<img width="1509" alt="blog-demo" src="https://user-images.githubusercontent.com/61921580/202440579-81950cf9-db6d-470e-a233-9b6dbeadeb4e.png">
+<img width="1666" alt="Screen Shot 2022-11-17 at 5 58 47 AM" src="https://user-images.githubusercontent.com/61921580/202440638-c0742e66-969a-4532-bc45-41eafe4f8bc6.png">
+
