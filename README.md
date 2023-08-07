@@ -51,7 +51,7 @@ I don't know why, I just can't get these apps to work properly with Atlas.
 
 Github Page https://github.com/agassiot \
 Github Repository https://github.com/agassiot/backend-books \
-Live Link https://deltaix-backend-books.herokuapp.com/ 
+Live Link: heroku broke my app 😔
 
 
 
